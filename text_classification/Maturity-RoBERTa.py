@@ -1,5 +1,3 @@
-###This code has been significantly influenced by the work of Maximilien Roberti in integrating fastai with Transofmer libraries. Example can be found here: 'https://www.kaggle.com/maroberti/fastai-with-transformers-bert-roberta'
-
 #import libraries
 import numpy as np 
 import pandas as pd 
