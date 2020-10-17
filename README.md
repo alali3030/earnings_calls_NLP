@@ -6,7 +6,7 @@ This repository includes my work on extracting the digital transformation strate
 - Clastering of the classification results to identify the digital strategy patterns of Fortune's Global 500 companies
 - Visualize the digital strategy patterns
 
-![alt text](Digital Strategy Cluster Maps.jpg)
+![alt text](Strategy Patterns.png)
 
 High-level illustration of the project pipeline:
 
