@@ -1,5 +1,5 @@
 # earnings_calls_NLP - COLING 2020
-This repository includes the work published at Computational Linguistics paper on extracting the digital transformation strategy of Fortune 500 companies from earnings calls transcripts. This work includes the following folders:
+This repository includes the work published at Computational Linguistics 2020 paper on extracting the digital transformation strategy of Fortune 500 companies from earnings calls transcripts. This work includes the following folders:
 
 - Converting around 5000 earnings calls transcripts from pdf format to a single dataframe
 - Building two text classifiers to classify the digital strategy and its maturity (Aspect based maturity analysis)
