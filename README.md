@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/arXiv-2010.12418-00ff00.svg)](https://arxiv.org/abs/2010.12418)
+
 # earnings_calls_NLP - COLING 2020
 
 Al-Ali, A. G., Sull, D., and Phaal, R.  (2020) Deep Learning Framework for Measuring the Digital Strategy of Companies from Earnings Calls, in The 28th International Conference on Computational Linguistics (COLING 2020). Link to paper: https://www.aclweb.org/anthology/2020.coling-main.80/
